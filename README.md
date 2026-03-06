@@ -1,12 +1,15 @@
-👋 Hi, I’m @itzzsaadi, your friendly neighborhood coder!
-👀 I’m interested in exploring the world of cybersecurity, web development, and artificial intelligence.
-🌱 I’m currently learning web development and operating systems to enhance my skills and knowledge.
-💞️ I’m looking to collaborate on open-source projects that challenge my skills and foster innovation, especially in the tech-for-good space.
-📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/saad-naseer-b66ba617b/) or email me at saadnaseer146@gmail.com.
-😄 Pronouns: He/Him.
-⚡ Fun fact: I can code in the dark and make a mean cup of coffee to fuel those late-night coding sessions!
+# Saad Naseer
 
-<!---
-itzzsaadi/itzzsaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full Stack Developer | Undergraduate Student | University of Central Punjab, Lahore**
+
+---
+
+Full stack developer with hands-on experience building web applications using **ASP.NET MVC (C#)**, **React**, **SQL/NoSQL databases**, **Python**, and **JavaScript**. My work spans both frontend interfaces and backend systems, with an active interest in **Artificial Intelligence** and **Machine Learning**.
+
+Notable projects include an AI-powered image-to-text web application leveraging OCR, NLP, and ML pipelines, and a full-scale e-commerce platform developed as a capstone web application project.
+
+---
+
+**Technical Skills:** ASP.NET MVC | C# | React | JavaScript | Python | SQL | NoSQL | HTML | C/C++
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/saad-naseer-b66ba617b/) | saadnaseer146@gmail.com
